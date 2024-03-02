@@ -1,5 +1,5 @@
 a=eval(input("enter the new day bread: "))
-b=eval(input("ent the old day bread: "))
+b=eval(input("enter the old day bread: "))
 n=185
 m=0
 k=0
