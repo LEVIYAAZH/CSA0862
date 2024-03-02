@@ -1,4 +1,8 @@
-a=10
-b=20
-c=a+b
-print(c)
+a=int(input())
+b=int(input())
+c=int(input())
+mul=(a*b*c)
+print("multiplication is",mul)
+add=(a+b+c)
+print("addition",add)
+print(mul/add )
